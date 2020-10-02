@@ -1,0 +1,22 @@
+header, #container, footer {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+li {
+    display:inline;
+}
+
+#navi li {
+    padding: 1em;
+    background: lightblue;
+}
+
+#container {
+    background-image: url('/w3/science.jpg') no-repeat right;
+    height: 360px;
+}
+
+#container h2, #container p {
+    width: 350px;
+}
